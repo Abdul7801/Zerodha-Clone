@@ -13,41 +13,41 @@ function Footer() {
             </div>
             <div className='col mb-5'>
                 <p>Company</p>
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>About</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>About</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Products</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Products</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Pricing</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Pricing</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Referral programme</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Referral programme</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Careers</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Careers</a>
                      <br />
-                     <a href="" className='text-muted'style={{textDecoration:"none"}}>Zerodha.tech</a>
+                     <a href="" className='text-muted'style={{textDecoration:"none", lineHeight: "2.5"}}>Zerodha.tech</a>
                      <br />
-                     <a href="" className='text-muted'style={{textDecoration:"none"}}>Press & media</a>
+                     <a href="" className='text-muted'style={{textDecoration:"none", lineHeight: "2.5"}}>Press & media</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Zerodha cares (CSR)</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Zerodha cares (CSR)</a>
             </div>
             <div className='col'>
             <p>Support</p>
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Contact</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Contact</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Support portal</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Support portal</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Z-Connect blog</a>
                      <br />
-                     <a href="" className='text-muted' style={{textDecoration:"none"}}>List of charges</a>
+                     <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>List of charges</a>
                      <br />
-                     <a href=""className='text-muted' style={{textDecoration:"none"}}>Downloads & resources</a>
+                     <a href=""className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Downloads & resources</a>
             </div>
             <div className='col'>
             <p>Account</p>
-            <a href="" className='text-muted' style={{textDecoration:"none"}}>Open an account</a>
+            <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Open an account</a>
             <br />
-            <a href="" className='text-muted' style={{textDecoration:"none"}}>Fund transfer</a>
+            <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>Fund transfer</a>
             <br />
-            <a href="" className='text-muted' style={{textDecoration:"none"}}>60 day challenge</a>
+            <a href="" className='text-muted' style={{textDecoration:"none", lineHeight: "2.5"}}>60 day challenge</a>
             <br />
             </div>
         </div>
